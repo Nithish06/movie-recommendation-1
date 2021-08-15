@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.movies {
+  margin: 20px;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+}
+
+.buttons {
+  margin: 20px;
+}
+
+.movies {
+  margin: 60px;
+}
